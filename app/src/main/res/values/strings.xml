@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">jetpack_compose_tutorial_4_4</string>
+    <string name="lt_title">Text composable</string>
+    <string name="lt_description">Displays text and follows the recommended Material Design guidelines.</string>
+    <string name="rt_title">Image composable</string>
+    <string name="rt_description">Creates a composable that lays out and draws a given Painter class object.</string>
+    <string name="lb_title">Row composable</string>
+    <string name="lb_description">A layout composable that places its children in a horizontal sequence.</string>
+    <string name="rb_title">Column composable</string>
+    <string name="rb_description">A layout composable that places its children in a vertical sequence.</string>
+</resources>
